@@ -1,0 +1,68 @@
+{
+	"1":{
+		"imgUrl":"img/1.png",
+		"description":"You see a man throwing a smoke grenade around the corner of a large building. Peeking round, you see some other fighters holed up across the road, firing rounds onto the street below. Two women and a five year old child are running down the road, narrowly avoiding being shot. There is a rifle leaning against the wall. Do you...",
+		"options":[
+			{"optionId":4, "optionText":"Grab the AK47 and start shooting across the road"},
+			{"optionId":2, "optionText":"Ask the man what is going on and which group he is fighting for"},
+			{"optionId":-1, "optionText":"Run away as fast as you can"},
+		]
+	},
+	
+	"2":{
+		"imgUrl":"img/2.png",
+		"description":"The smoke grenade goes whistling out into the street. A new hail of gunfire slams into the masonry. “What's going on?” you ask, as you crouch.. The man speaks only Arabic. After a few seconds, he grabs you by the wrist. You run with him,.diving through a couple of courtyards before arriving in a deserted shopping street. Half a dozen big guys with rifles and balaclavas. A man with his face uncovered speaks just enough English; he claims him and his friends used to fight in the Syrian Army, but have now joined the rebels. The man you arrived with has disappeared. More gunfire peels out of a mosque at the end of the street. It's time to go. Your new English-speaking friend, grabs you – come, join us! Do you...
+",
+		"options":[
+			{"optionId":3, "optionText":"Help the group as they set up firing positions"},
+			{"optionId":-1, "optionText":"Run away from the group"},
+			{"optionId":7, "optionText":"Work your way up to the Mosque on your own, out of sight"},
+		]
+	},
+	
+	"3":{
+		"imgUrl":"img/3.png",
+		"description":"You're still not entirely clear who it is trying to kill you, but whoever it is they have a lot of ammunition and are holed up fairly securely in a mosque further down the street, firing out of a few tiny windows. You and half a dozen others you just met are stuffed into the ground floor of a bakery, crouching for cover behind up-turned fridges and occasionally firing back. You feel like a fighter but the men refused to give you a gun. Your English-speaking friend screams, grabs where his ear used to be and stumbles out the back of the building. Three others decide enough is enough and follow him. You've been stuck in the bakery for two hours. Now it's just you and a balding man in his forties, dressed in an Adidas tracksuit. You presume he's Syrian. He's trying to say something at you in Arabic before he runs out into the street, towards the mosque..He doesn't get far. Blood is rushing from his collarbone but he's still breathing. Do you...",
+		"options":[
+			{"optionId":-1, "optionText":"Run away"},
+			{"optionId":-1, "optionText":"Improvise a white flag and convince whoever's in the mosque to parlay?"},
+			{"optionId":-1, "optionText":"Drag his body back into the Bakery and wait for Help to arrive"},
+		]
+	},
+	
+	"4":{
+		"imgUrl":"img/4.png",
+		"description":"You pick up the rifle and cock the weapon ready to fire. The man's smoke grenade goes whistling into the street, then he notices what you're doing. You're pushed up against the wall, he's stronger than he looks and yelling in Arabic. You drop the gun to fight him off. As you are struggling two Assad soldiers come charging across the street. You feel the man's body go limp as one shoots him in the arm. As he falls away from you, another bullet cracks through his ribcage. He's bleeding out, but the soldiers are already dragging you back across the road. You end up blindfolded with some other prisoners, Assad troops pacing up and down behind you. They put a blindfold on you and cable-tie your hands. Do you....",
+		"options":[
+			{"optionId":-1, "optionText":"Keep quiet."},
+			{"optionId":5, "optionText":"Ask the man next to you what is going on."},
+			{"optionId":6, "optionText":"Wait for your moment then make a run for it."},
+		]
+	},
+	
+	"5":{
+		"imgUrl":"img/5.png",
+		"description":"The man doesn't answer. You nudge him in the elbow. He lets out what sounds more a bark than a shout. He starts sobbing. You notice the skin on the back of his neck is peeling and burnt, they must have been tied up in the sun for most of the day. You nudge him again. “It's OK man, don't worry.” You remember he probably doesn't understand what you're saying.Your guard comes screaming and drags you back by your ankles, then stamps on them, twice. Four other soldiers pile in. You can hear one of them laughing. It takes about ten minutes of solid beating before you realise they aren't going to stop. You hear the others being loaded into a truck. The last air you breathe one part exhaust smoke and two parts blood. You're still blindfolded as you die, and you can't hear a soul moving in the street around you.",
+		"options":[]
+	},
+	
+	"6":{
+		"imgUrl":"img/6.png",
+		"description":"That was a stupid idea. With your hands cable-tied you lose your balance and fall. Assad's men barely have to jog to catch you, so they've saved some energy for beating you senseless. The other prisoners look on. After two hours waiting out in the sun, blindfolded and sore, a people carrier arrives. You're thrown in the back with the other prisoners,. But when you arrive at what looks to be a regime prison,you are separated and taken round the back of the building. It looks like your job will be bagging up the dead prisoners. Who are these people? You begin crying. A guard comes over and offers you a cigarette. Do you...",
+		"options":[
+			{"optionId":-1, "optionText":"Take the cigarette and ask him what happened here?"},
+			{"optionId":-1, "optionText":"Ask the man what is going on and which group he is fighting for"},
+			{"optionId":4, "optionText":"Run away as fast as you can"},
+		]
+	},
+	
+	"7":{
+		"imgUrl":"img/7.png",
+		"description":"You work your way up to the mosque. At a distance, you see six, maybe seven men insider, most wearing khakis and hoodies. One or two have long wispy beards, filled with debris from the firefight. After watching for about twenty minutes, petrified behind a pile of shopping trollies, you move into the open wasteland behind the mosque.. Somehow they don't spot you. The mass of buildings gives way to an open wasteland. It's been used a makeshift landfill since the fighting here got really bad. Down in one of the hollows, you see a small crowd. Just a few hundred metres back from the firefight, a man is giving a press conference. Do you?",
+		"options":[
+			{"optionId":-1, "optionText":"Approach the camera man after he has finished filming"},
+			{"optionId":-1, "optionText":"Listen in quietly"},
+			{"optionId":2, "optionText":"Leave."},
+		]
+	}
+}
